@@ -93,10 +93,11 @@ export default function CreateArticlePage({data}: PageProps<Data | undefined>) {
                     </div>
                     <div class={tw("flex justify-end mt-4")}>
                         <button
+                            disabled
                             class={tw(
                                 "bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md"
                             )}
-                            //type="submit"
+                            type="submit"
                         >
                             Create
                         </button>
