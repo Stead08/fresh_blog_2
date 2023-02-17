@@ -1,3 +1,6 @@
+# サイトのアクセス先
+
+https://fresh-blog-2.deno.dev/
 # fresh project
 
 ### Usage
